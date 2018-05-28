@@ -1,3 +1,4 @@
+#https://github.com/tensorflow/models/tree/master/research/object_detection
 virtualenv venv27
 . ./venv27/bin/activate
 pip install -r requirements.txt
